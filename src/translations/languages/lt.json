@@ -1,0 +1,13 @@
+{
+  "daysOfWeek": ["Sek", "Pir", "Ant", "Tre", "Ket", "Pen", "Šeš"],
+  "fullDaysOfWeek": ["Sekmadienis", "Pirmadienis", "Antradienis", "Trečiadienis", "Ketvirtadienis", "Penktadienis", "Šeštadienis"],
+  "months": ["Sau", "Vas", "Kov", "Bal", "Geg", "Bir", "Lie", "Rgp", "Rgs", "Spa", "Lap", "Grd"],
+  "allDay": "visą dieną",
+  "multiDay": "iki",
+  "at": "nuo",
+  "endsToday": "baigiasi šiandien",
+  "endsTomorrow": "baigiasi rytoj",
+  "noEvents": "Nėra artėjančių įvykių",
+  "loading": "Įkeliami kalendoriaus įvykiai...",
+  "error": "Klaida: Kalendoriaus entitetas nerastas arba netinkamai sukonfigūruotas"
+}
