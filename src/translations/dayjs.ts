@@ -25,6 +25,7 @@ import 'dayjs/locale/he';
 import 'dayjs/locale/hu';
 import 'dayjs/locale/is';
 import 'dayjs/locale/it';
+import 'dayjs/locale/lt';
 import 'dayjs/locale/nb';
 import 'dayjs/locale/nl';
 import 'dayjs/locale/nn';
@@ -40,6 +41,7 @@ import 'dayjs/locale/uk';
 import 'dayjs/locale/vi';
 import 'dayjs/locale/zh-cn';
 import 'dayjs/locale/zh-tw';
+
 
 /**
  * Get relative time string (e.g., "in 2 days")
@@ -80,6 +82,7 @@ function mapLocale(locale: string): string {
     'hu',
     'is',
     'it',
+    'lt',
     'nb',
     'nl',
     'nn',
